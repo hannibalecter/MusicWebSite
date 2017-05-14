@@ -198,49 +198,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     </div>
 </div>
 <!-- footer -->
-<div class="footer">
-    <div class="container">
-        <div class="col-md-3 footer-left">
-            <h3>More Info</h3>
-            <li><a href="#">How to order</a></li>
-            <li><a href="#">Faq</a></li>
-            <li><a href="#">Locatio</a></li>
-            <li><a href="#">Shipping</a></li>
-            <li><a href="#">Membership</a></li>
-        </div>
-        <div class="col-md-3 footer-left">
-            <h3>Contact Us</h3>
-            <p>Contrary to popular belief</p>
-            <p>The standard chunk</p>
-            <p>office : +12 34 995 0792</p>
-        </div>
-        <div class="col-md-3 social">
-            <h3>Follow Us</h3>
-            <ul>
-                <li><a href="#" class="facebook"> </a></li>
-                <li><a href="#" class="p"> </a></li>
-                <li><a href="#" class="twitter"> </a></li>
-                <li><a href="#" class="goog"> </a></li>
-            </ul>
-        </div>
-        <div class="col-md-3 footer-left">
-            <h3>Newsletter</h3>
-            <form>
-                <input type="text" placeholder="Enter email id" required="">
-            </form>
-            <div class="button">
-                <form>
-                    <input type="submit" value="Subscribe">
-                </form>
-            </div>
-            <div class="clearfix"> </div>
-        </div>
-        <div class="clearfix"></div>
-        <div class="footer-bottom">
-            <p>Copyrights © 2015 Music8. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
-        </div>
-    </div>
-</div>
+    <?php include( "/footer_pre.php"); ?>
 <!-- footer -->
 </body>
 </html>

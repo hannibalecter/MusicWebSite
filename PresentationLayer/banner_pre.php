@@ -7,7 +7,6 @@
  */
 ?>
 
-<div class="agileinfo-main">
     <div class="slider">
         <script src="resources/js/responsiveslides.min.js"></script>
         <script>

@@ -33,25 +33,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         </div>
     </div>
     <!-- navigation start here -->
-    <div class="top-nav">
-        <span class="menu">Menu</span>
-        <ul class="w3l">
-            <li><a href="index.html"><i aria-hidden="true" class="glyphicon glyphicon-home"></i><span>Home</span></a></li>
-            <li><a href="about.html"><i class="glyphicon glyphicon-user"></i><span>About</span></a></li>
-            <li><a href="blog.html"><i class="glyphicon glyphicon-list-alt"></i><span>Blog</span></a></li>
-            <li><a class="active" href="codes.html"><i class="glyphicon glyphicon-picture"></i><span>Short Codes</span></a></li>
-            <li><a href="contact.html"><i class="glyphicon glyphicon-envelope"></i><span>Contact</span></a></li>
-        </ul>
-        <!-- script-for-menu -->
-        <script>
-            $( "span.menu" ).click(function() {
-                $( "ul.w3l" ).slideToggle( 300, function() {
-                    // Animation complete.
-                });
-            });
-        </script>
-        <!-- //script-for-menu -->
-    </div>
+    <?php include("/navbar_pre.php"); ?>
+
 </div>
 <!-- //navigation end here -->
 <!-- short-codes -->
