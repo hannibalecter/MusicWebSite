@@ -35,12 +35,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </li>
             <li>
                 <div class="banner banner2">
-                    <h3>Proin vel enim nec ipsum finibus. Duis euismod massa ut sem fringilla blandit. </h3>
+                    <h3>Sanatsız kalan bir milletin, hayat damarlarından biri kopmuş demektir.<br/>-Mustafa Kemal ATATÜRK- </h3>
                 </div>
             </li>
             <li>
                 <div class="banner banner3">
-                    <h3>Sem fringilla blandit duis euismod massa ut . Proin vel enim nec ipsum finibus. </h3>
+                    <h3>Hayat, ıstırap ve keder verirse sükuneti müzikte arayınız. <br/>-Konfüçyüs- </h3>
                 </div>
             </li>
         </ul>
@@ -163,7 +163,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!--- albums -->
 <div class="albums">
     <div class="container">
-        <h3 class="agile-title">New Albums</h3>
+        <h3 class="agile-title">Çalışmalar</h3>
         <div class="col-md-6 w3lsalbums-grid">
             <div class="albums-left">
                 <div class="wthree-almub">

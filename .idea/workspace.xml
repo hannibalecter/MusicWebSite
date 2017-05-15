@@ -4,14 +4,9 @@
     <list default="true" id="10a6499c-bbc5-4ec4-918b-d2c26ec768a3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PresentationLayer/UI.php" afterPath="$PROJECT_DIR$/PresentationLayer/UI.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PresentationLayer/about_pre.php" afterPath="$PROJECT_DIR$/PresentationLayer/about_pre.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PresentationLayer/banner_pre.php" afterPath="$PROJECT_DIR$/PresentationLayer/banner_pre.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PresentationLayer/blog_pre.php" afterPath="$PROJECT_DIR$/PresentationLayer/blog_pre.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PresentationLayer/contact_pre.php" afterPath="$PROJECT_DIR$/PresentationLayer/contact_pre.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PresentationLayer/events_pre.php" afterPath="$PROJECT_DIR$/PresentationLayer/events_pre.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PresentationLayer/footer_pre.php" afterPath="$PROJECT_DIR$/PresentationLayer/footer_pre.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PresentationLayer/gallery_pre.php" afterPath="$PROJECT_DIR$/PresentationLayer/gallery_pre.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PresentationLayer/navbar_pre.php" afterPath="$PROJECT_DIR$/PresentationLayer/navbar_pre.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +21,8 @@
       <file leaf-file-name="navbar_pre.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PresentationLayer/navbar_pre.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="699">
-              <caret line="42" column="97" lean-forward="false" selection-start-line="42" selection-start-column="97" selection-end-line="42" selection-end-column="97" />
+            <state relative-caret-position="-247">
+              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="33" />
               <folding>
                 <element signature="e#6#87#0#PHP" expanded="true" />
               </folding>
@@ -35,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_pre.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PresentationLayer/about_pre.php">
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="31" column="142" lean-forward="false" selection-start-line="31" selection-start-column="142" selection-end-line="31" selection-end-column="142" />
+            <state relative-caret-position="280">
+              <caret line="82" column="40" lean-forward="true" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -48,8 +43,18 @@
       <file leaf-file-name="events_pre.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PresentationLayer/events_pre.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-891">
+            <state relative-caret-position="-2695">
               <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_pre.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PresentationLayer/about_pre.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2012">
+              <caret line="31" column="142" lean-forward="false" selection-start-line="31" selection-start-column="142" selection-end-line="31" selection-end-column="142" />
               <folding />
             </state>
           </provider>
@@ -58,8 +63,8 @@
       <file leaf-file-name="gallery_pre.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PresentationLayer/gallery_pre.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="-417">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,18 +73,18 @@
       <file leaf-file-name="contact_pre.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PresentationLayer/contact_pre.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state relative-caret-position="538">
+              <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer_pre.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer_pre.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PresentationLayer/footer_pre.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="-315">
+              <caret line="36" column="94" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="94" />
               <folding>
                 <element signature="e#6#87#0#PHP" expanded="true" />
               </folding>
@@ -90,18 +95,18 @@
       <file leaf-file-name="UI.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PresentationLayer/UI.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="812">
-              <caret line="137" column="20" lean-forward="true" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
+            <state relative-caret-position="555">
+              <caret line="219" column="36" lean-forward="true" selection-start-line="219" selection-start-column="0" selection-end-line="220" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="banner_pre.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="banner_pre.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PresentationLayer/banner_pre.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+            <state relative-caret-position="374">
+              <caret line="22" column="93" lean-forward="true" selection-start-line="22" selection-start-column="93" selection-end-line="22" selection-end-column="93" />
               <folding>
                 <element signature="e#6#87#0#PHP" expanded="true" />
               </folding>
@@ -109,21 +114,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="1195" column="1" lean-forward="true" selection-start-line="1195" selection-start-column="1" selection-end-line="1195" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="blog_pre.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PresentationLayer/blog_pre.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="39" />
+            <state relative-caret-position="552">
+              <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -161,7 +156,6 @@
         <option value="$PROJECT_DIR$/style/style.css" />
         <option value="$PROJECT_DIR$/style/plugins.css" />
         <option value="$PROJECT_DIR$/style/bootstrap.css" />
-        <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/about.php" />
         <option value="$USER_HOME$/Desktop/web/about.html" />
         <option value="$USER_HOME$/Desktop/web/blog.html" />
@@ -180,13 +174,15 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/PresentationLayer/navbar_pre.php" />
         <option value="$PROJECT_DIR$/PresentationLayer/banner_pre.php" />
-        <option value="$PROJECT_DIR$/PresentationLayer/contact_pre.php" />
-        <option value="$PROJECT_DIR$/PresentationLayer/blog_pre.php" />
         <option value="$PROJECT_DIR$/PresentationLayer/events_pre.php" />
-        <option value="$PROJECT_DIR$/PresentationLayer/UI.php" />
         <option value="$PROJECT_DIR$/PresentationLayer/about_pre.php" />
         <option value="$PROJECT_DIR$/PresentationLayer/gallery_pre.php" />
         <option value="$PROJECT_DIR$/PresentationLayer/footer_pre.php" />
+        <option value="$PROJECT_DIR$/PresentationLayer/UI.php" />
+        <option value="$PROJECT_DIR$/PresentationLayer/a.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/PresentationLayer/blog_pre.php" />
+        <option value="$PROJECT_DIR$/PresentationLayer/contact_pre.php" />
       </list>
     </option>
   </component>
@@ -253,19 +249,20 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsDialog.application.dockerMachine" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CME-3006-cargo-project" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\erens\OneDrive\Belgeler\GitHub\MusicWebSite\resources" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\erens\OneDrive\Belgeler\GitHub\MusicWebSite\images" />
       <recent name="C:\Users\erens\OneDrive\Belgeler\GitHub\MusicWebSite\js" />
       <recent name="C:\Users\erens\OneDrive\Belgeler\GitHub\MusicWebSite\css" />
       <recent name="C:\Users\erens\OneDrive\Belgeler\GitHub\MusicWebSite\fonts" />
       <recent name="C:\Users\erens\OneDrive\Belgeler\GitHub\MusicWebSite\scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\erens\OneDrive\Belgeler\GitHub\MusicWebSite" />
+      <recent name="C:\Users\erens\OneDrive\Belgeler\GitHub\MusicWebSite\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -374,12 +371,12 @@
       <updated>1494535953979</updated>
       <workItem from="1494535956667" duration="6374000" />
       <workItem from="1494785581142" duration="2257000" />
-      <workItem from="1494841030346" duration="4788000" />
+      <workItem from="1494841030346" duration="13493000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13419000" />
+    <option name="totallyTimeSpent" value="22124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -389,10 +386,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1787649" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19934994" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -415,16 +412,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PresentationLayer/banner_pre.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <element signature="e#6#87#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PresentationLayer/navbar_pre.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -668,14 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PresentationLayer/single_pre.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1292">
@@ -726,76 +705,34 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PresentationLayer/banner_pre.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-          <folding>
-            <element signature="e#6#87#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PresentationLayer/contact_pre.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PresentationLayer/events_pre.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-891">
-          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PresentationLayer/UI.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="137" column="20" lean-forward="true" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PresentationLayer/about_pre.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="31" column="142" lean-forward="false" selection-start-line="31" selection-start-column="142" selection-end-line="31" selection-end-column="142" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PresentationLayer/blog_pre.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
-          <caret line="1195" column="1" lean-forward="true" selection-start-line="1195" selection-start-column="1" selection-end-line="1195" selection-end-column="1" />
+          <caret line="1195" column="1" lean-forward="false" selection-start-line="1195" selection-start-column="1" selection-end-line="1195" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PresentationLayer/gallery_pre.php">
+    <entry file="file://$PROJECT_DIR$/a.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="82" column="40" lean-forward="true" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PresentationLayer/navbar_pre.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
-          <caret line="42" column="97" lean-forward="false" selection-start-line="42" selection-start-column="97" selection-end-line="42" selection-end-column="97" />
+        <state relative-caret-position="-247">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="33" />
           <folding>
             <element signature="e#6#87#0#PHP" expanded="true" />
           </folding>
@@ -804,8 +741,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PresentationLayer/footer_pre.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="-315">
+          <caret line="36" column="94" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="94" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresentationLayer/UI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="219" column="36" lean-forward="true" selection-start-line="219" selection-start-column="0" selection-end-line="220" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresentationLayer/gallery_pre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-417">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresentationLayer/blog_pre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresentationLayer/contact_pre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresentationLayer/events_pre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2695">
+          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresentationLayer/about_pre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2012">
+          <caret line="31" column="142" lean-forward="false" selection-start-line="31" selection-start-column="142" selection-end-line="31" selection-end-column="142" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresentationLayer/banner_pre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="93" lean-forward="true" selection-start-line="22" selection-start-column="93" selection-end-line="22" selection-end-column="93" />
           <folding>
             <element signature="e#6#87#0#PHP" expanded="true" />
           </folding>
