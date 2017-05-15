@@ -94,7 +94,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="eve-top">
                 <div class="col-md-5 eve-lt">
                     <div class="ev-lft">
-                        <img src="images/img4.jpg" alt=" " class="img-responsive">
+                        <img src="resources/images/img4.jpg" alt=" " class="img-responsive">
                     </div>
                     <div class="ev-rgt">
                         <h5>29</h5>
@@ -111,7 +111,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="eve-top">
                 <div class="col-md-5 eve-lt">
                     <div class="ev-lft">
-                        <img src="images/img5.jpg" alt=" " class="img-responsive">
+                        <img src="resources/images/img5.jpg" alt=" " class="img-responsive">
                     </div>
                     <div class="ev-rgt">
                         <h5>10</h5>
@@ -128,7 +128,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="eve-top">
                 <div class="col-md-5 eve-lt">
                     <div class="ev-lft">
-                        <img src="images/img3.jpg" alt=" " class="img-responsive">
+                        <img src="resources/images/img3.jpg" alt=" " class="img-responsive">
                     </div>
                     <div class="ev-rgt">
                         <h5>22</h5>
@@ -145,7 +145,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="eve-top">
                 <div class="col-md-5 eve-lt">
                     <div class="ev-lft">
-                        <img src="images/img2.jpg" alt=" " class="img-responsive">
+                        <img src="resources/images/img2.jpg" alt=" " class="img-responsive">
                     </div>
                     <div class="ev-rgt">
                         <h5>12</h5>
@@ -162,7 +162,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="eve-top">
                 <div class="col-md-5 eve-lt">
                     <div class="ev-lft">
-                        <img src="images/img1.jpg" alt=" " class="img-responsive">
+                        <img src="resources/images/img1.jpg" alt=" " class="img-responsive">
                     </div>
                     <div class="ev-rgt">
                         <h5>23</h5>
@@ -198,7 +198,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     </div>
 </div>
 <!-- footer -->
-    <?php include( "/footer_pre.php"); ?>
+    <?php include( __DIR__."/footer_pre.php"); ?>
 <!-- footer -->
 </body>
 </html>

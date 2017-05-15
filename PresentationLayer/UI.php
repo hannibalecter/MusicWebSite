@@ -13,7 +13,55 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <body>
 <!-- banner start here -->
 <div class="agileinfo-main">
-    <?php include(__DIR__."/banner_pre.php"); ?>
+    <div class="slider">
+        <script src="resources/js/responsiveslides.min.js"></script>
+        <script>
+            // You can also use "$(window).load(function() {"
+            $(function () {
+                // Slideshow 1
+                $("#slider1").responsiveSlides({
+                    auto: true,
+                    nav: true,
+                    speed: 500,
+                    namespace: "callbacks",
+                });
+            });
+        </script>
+        <ul class="rslides" id="slider1">
+            <li>
+                <div class="banner">
+                    <h3>Müzik olmasaydı, hayat bir hatadan ibaret olurdu. <br/>-Nietzsche- </h3>
+                </div>
+            </li>
+            <li>
+                <div class="banner banner2">
+                    <h3>Proin vel enim nec ipsum finibus. Duis euismod massa ut sem fringilla blandit. </h3>
+                </div>
+            </li>
+            <li>
+                <div class="banner banner3">
+                    <h3>Sem fringilla blandit duis euismod massa ut . Proin vel enim nec ipsum finibus. </h3>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="agileinfo-header">
+        <div class="container">
+            <div class="agile-logo">
+                <h1><a href="UI.php"><i class="fa fa-music bounce bounceIn animated" aria-hidden="true"></i> Emre Sözen</a></h1>
+            </div>
+            <div class="agileits-w3layouts-icons">
+                <div class="social-icon">
+                    <a href="#" class="social-button twitter"><i class="fa fa-twitter"></i></a>
+                    <a href="#" class="social-button facebook"><i class="fa fa-facebook"></i></a>
+                    <a href="#" class="social-button google"><i class="fa fa-google-plus"></i></a>
+                    <a href="#" class="social-button dribbble"><i class="fa fa-dribbble"></i></a>
+                    <a href="#" class="social-button skype"><i class="fa fa-skype"></i></a>
+                </div>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
     <!-- navigation start here -->
     <?php include(__DIR__."/navbar_pre.php"); ?>
 </div>
@@ -89,7 +137,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- events -->
 <div class="events">
     <div class="container">
-        <h3 class="agile-title">Events</h3>
+        <h3 class="agile-title">Etkinlikler</h3>
         <div class="events-info">
             <div class="col-md-6 event-grids">
                 <div class="w3layouts-text">
@@ -124,7 +172,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="albums-right">
                 <h4>Dolor Sit</h4>
                 <p>Nsatolernatur auts oditaut miertase vertas.Measnseqe ustur magni dolores eoqus ratione voluptate.</p>
-                <a class="w3more" href="single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
+                <a class="w3more" href="/single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -136,7 +184,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="albums-right">
                 <h4>Consequat</h4>
                 <p>Nsatolernatur auts oditaut miertase vertas.Measnseqe ustur magni dolores eoqus ratione voluptate.</p>
-                <a class="w3more" href="single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
+                <a class="w3more" href="/single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -148,7 +196,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="albums1-left">
                 <h4>Dolores Btrs</h4>
                 <p>Nsatolernatur auts oditaut miertase vertas.Measnseqe ustur magni dolores eoqus ratione voluptate.</p>
-                <a class="w3more" href="single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
+                <a class="w3more" href="/single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -160,7 +208,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="albums1-left">
                 <h4>Nam aliquam</h4>
                 <p>Nsatolernatur auts oditaut miertase vertas.Measnseqe ustur magni dolores eoqus ratione voluptate.</p>
-                <a class="w3more" href="single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
+                <a class="w3more" href="/single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
             </div>
             <div class="clearfix"></div>
         </div>
