@@ -8,5 +8,6 @@
 
 $activePage = "events";
 $title = "Events";
-require_once("PresentationLayer/events_pre.php");
+
+require_once("PresentationLayer/activity_pre.php");
 ?>

@@ -8,6 +8,10 @@
 
 $activePage = "home";
 $title = "Home";
-//render page
+
+require_once(__DIR__ . "/LogicLayer/ActivityManagement.php");
+
+$objArr = ActivityManagement::getAllActivity();
+$arr = array();
 require_once("PresentationLayer/UI.php");
 ?>

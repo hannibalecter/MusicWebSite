@@ -108,7 +108,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- welcome -->
 <div class="welcome agileits">
     <div class="container">
-        <h2 class="agile-title">Siteme Hoşgeldiniz</h2>
+        <h2 class="agile-title">WebSiteme Hoşgeldiniz</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed viverra auctor dolor, id egestas felis tristique vel. Donec malesuada, lorem sed vulputate tincidunt, nulla quam pulvinar mi, blandit placerat odio neque quis risus. Nullam ultricies erat non lectus aliquam, eu finibus neque semper. Morbi viverra, neque sit amet pretium blandit, dui mauris lacinia metus, a rhoncus erat ipsum vitae augue. Morbi laoreetvenenatis nulla, et venenatis purus scelerisque id. Vestibulum non facilisis lectus, quis accumsan mi.</p>
         <div class="welcome-agileinfo">
             <div class="col-md-6 col-sm-6 col-xs-6 welcome-grids">
@@ -139,22 +139,24 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <div class="container">
         <h3 class="agile-title">Etkinlikler</h3>
         <div class="events-info">
+            <?php
+
+            foreach ($objArr as $obj) {
+                $arr = ActivityManagement::editDate($obj->date_activity);
+                ?>
             <div class="col-md-6 event-grids">
                 <div class="w3layouts-text">
-                    <h4>10<span>Haziran</span></h4>
-                    <h6><a href="../single.php">&emsp;Yıl Sonu Etkinliği / Sınav Koleji</a></h6>
+                    <h4><?php echo $arr[2]?><span><?php echo $arr[1]?></span></h4>
+                    <h6><a href="../single.php">&emsp;<?php echo $obj->title_activity?> / <?php echo $obj->address_activity?></a></h6>
                     <div class="clearfix"> </div>
                 </div>
-                <p>Kasertas lertyasea deeraeser miasera lertasa ritise doloert ferdas caplicabo nerafaes asety u lasec vaserat. nikertyade asetkertyptaiades goertayse.nikertyade asetkertyptaiades goertayse</p>
+                <p><?php echo $obj->content_activity?></p>
             </div>
-            <div class="col-md-6 event-grids">
-                <div class="w3layouts-text">
-                    <h4>20<span>Temmuz</span></h4>
-                    <h6><a href="../single.php">&emsp;Deniz Bayramı Konseri / Bodrum</a></h6>
-                    <div class="clearfix"> </div>
-                </div>
-                <p>Kasertas lertyasea deeraeser miasera lertasa ritise doloert ferdas caplicabo nerafaes asety u lasec vaserat. nikertyade asetkertyptaiades goertayse.nikertyade asetkertyptaiades goertayse</p>
-            </div>
+
+                <?php
+            }
+            ?>
+
             <div class="clearfix"> </div>
 
         </div>
