@@ -6,7 +6,8 @@
  * Time: 00:59
  */
 ?>
-<title>Rock a Music Category Flat Bootstrap Responsive website Template | Home :: w3layouts</title>
+<title>Emre Sözen Music</title>
+<link rel="shortcut icon" type="image/png" href="/favicon.png"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Rock Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,

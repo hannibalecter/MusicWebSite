@@ -22,7 +22,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 $("#slider1").responsiveSlides({
                     auto: true,
                     nav: true,
-                    speed: 500,
+                    speed: 1000,
                     namespace: "callbacks",
                 });
             });
@@ -48,7 +48,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <div class="agileinfo-header">
         <div class="container">
             <div class="agile-logo">
-                <h1><a href="UI.php"><i class="fa fa-music bounce bounceIn animated" aria-hidden="true"></i> Emre Sözen</a></h1>
+                <h1><a href="../index.php"><i class="fa fa-music bounce bounceIn animated" aria-hidden="true"></i> Emre Sözen</a></h1>
             </div>
             <div class="agileits-w3layouts-icons">
                 <div class="social-icon">

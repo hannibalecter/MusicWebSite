@@ -13,7 +13,7 @@
 <div class="agileinfo-header">
     <div class="container">
         <div class="agile-logo">
-            <h1><a href="index.html"><i class="fa fa-music bounce bounceIn animated" aria-hidden="true"></i> Emre Sözen</a></h1>
+            <h1><a href="../index.php"><i class="fa fa-music bounce bounceIn animated" aria-hidden="true"></i> Emre Sözen</a></h1>
         </div>
         <div class="agileits-w3layouts-icons">
             <div class="social-icon">
