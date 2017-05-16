@@ -10,6 +10,8 @@ $activePage = "contact";
 $title = "Contact";
 $result = "";
 
+//TODO: Array ( [type] => 2 [message] => mail(): Failed to connect to mailserver at "localhost" port 25, verify your "SMTP" and "smtp_port" setting in php.ini or use ini_set() [file] => C:\Users\erens\OneDrive\Belgeler\GitHub\MusicWebSite\contact.php [line] => 88 )
+
 
 if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) && isset($_POST['message']) && isset($_POST['submit'])) {
 

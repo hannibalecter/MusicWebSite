@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   <?php include("/head_pre.php"); ?>
+   <?php include(__DIR__."/head_pre.php"); ?>
 <body>
 <!-- banner start here -->
 <div class="agileinfo-main about-top">
@@ -16,7 +16,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="agileinfo-header">
             <div class="container">
                 <div class="agile-logo">
-                    <h1><a href="index.html"><i class="fa fa-music bounce bounceIn animated" aria-hidden="true"></i> Rock</a></h1>
+                    <h1><a href="../index.php"><i class="fa fa-music bounce bounceIn animated" aria-hidden="true"></i> Emre Sözen</a></h1>
                 </div>
                 <div class="agileits-w3layouts-icons">
                     <div class="social-icon">
@@ -31,7 +31,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </div>
         </div>
     <!-- navigation start here -->
-        <?php include("/navbar_pre.php"); ?>
+        <?php include(__DIR__."/navbar_pre.php"); ?>
 </div>
 <!-- //navigation end here -->
 <!-- single -->
@@ -47,7 +47,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </ul>
         </div>
         <div class="agile_single_banner">
-            <img src="images/s1.jpg" alt="" class="img-responsive" />
+            <img src="resources/images/s1.jpg" alt="" class="img-responsive" />
         </div>
         <div class="wthree_single_grid1">
             <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
@@ -69,28 +69,28 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="popular-posts-grids">
                 <div class="col-md-3 col-sm-3 col-xs-6 popular-posts-grid">
                     <div class="popular-posts-grid1">
-                        <a href="single.html"><img src="images/img3.jpg" alt=" " class="img-responsive"></a>
+                        <a href="single.html"><img src="resources/images/img3.jpg" alt=" " class="img-responsive"></a>
                         <h4><a href="single.html">dolori perior</a></h4>
                         <p>Itaque earum rerum hic tenetur a sapiente delectus.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 col-xs-6 popular-posts-grid">
                     <div class="popular-posts-grid1">
-                        <a href="single.html"><img src="images/img4.jpg" alt=" " class="img-responsive"></a>
+                        <a href="single.html"><img src="resources/images/img4.jpg" alt=" " class="img-responsive"></a>
                         <h4><a href="single.html">rerum tenetur</a></h4>
                         <p>Itaque earum rerum hic tenetur a sapiente delectus.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 col-xs-6 popular-posts-grid">
                     <div class="popular-posts-grid1">
-                        <a href="single.html"><img src="images/img5.jpg" alt=" " class="img-responsive"></a>
+                        <a href="single.html"><img src="resources/images/img5.jpg" alt=" " class="img-responsive"></a>
                         <h4><a href="single.html">saepe eveniet </a></h4>
                         <p>Itaque earum rerum hic tenetur a sapiente delectus.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3 col-xs-6 popular-posts-grid">
                     <div class="popular-posts-grid1">
-                        <a href="single.html"><img src="images/img6.jpg" alt=" " class="img-responsive"></a>
+                        <a href="single.html"><img src="resources/images/img6.jpg" alt=" " class="img-responsive"></a>
                         <h4><a href="single.html">ipsum tenetur</a></h4>
                         <p>Itaque earum rerum hic tenetur a sapiente delectus.</p>
                     </div>
@@ -102,7 +102,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <h4 class="w3ls-title"> About Admin </h4>
             <div class="author-grid">
                 <div class="author-grid-left">
-                    <img src="images/t1.jpg" alt=" " class="img-responsive ">
+                    <img src="resources/images/t1.jpg" alt=" " class="img-responsive ">
                 </div>
                 <div class="author-grid-right">
                     <h4><a href="#">Vaura Tegsner</a><span>Popular Singer</span></h4>

@@ -23,7 +23,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!--- albums -->
 <div class="albums agile-blog">
     <div class="container">
-        <h2 class="agile-title">Our Blog</h2>
+        <h2 class="agile-title">Bloglarım</h2>
         <div class="col-md-6 w3lsalbums-grid">
             <div class="albums-w3top">
                 <h5>4th November 2016 </h5>
@@ -99,21 +99,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </div>
             <div class="clearfix"></div>
         </div>
-        <div class="col-md-6 w3lsalbums-grid">
-            <div class="albums-w3top">
-                <h5>10th November 2016 </h5>
-            </div>
-            <div class="albums-left">
-                <a href="single.html" class="wthree-almub wthree-almub2">
-                </a>
-            </div>
-            <div class="albums-right">
-                <h4><a href="single.html">Consequat</a></h4>
-                <p>Nsatolernatur auts oditaut miertase vertas.Measnseqe ustur magni dolores eoqus ratione voluptate.</p>
-                <a class="w3more" href="single.html"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
-            </div>
-            <div class="clearfix"></div>
-        </div>
+
+
+
+
         <div class="clearfix"></div>
         <nav>
             <ul class="pagination w3-agileits-paging">

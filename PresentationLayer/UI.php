@@ -75,8 +75,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <i class="fa fa-users" aria-hidden="true"></i>
                 </div>
                 <div class="col-md-8 w3ls-bnrgrids-right">
-                    <h4>Phasellus fermentum</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                    <h4>1. Kişiye Özel Kurs </h4>
+                    <p>Yönelmek istediği alan veya yeteneğine göre kişiye özel program ve teknik.</p>
                 </div>
                 <div class="clearfix"> </div>
             </div>
@@ -85,8 +85,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <i class="fa fa-film" aria-hidden="true"></i>
                 </div>
                 <div class="col-md-8 w3ls-bnrgrids-right">
-                    <h4>Nullam sodales suscipit </h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                    <h4>2. Hızlı Öğrenme</h4>
+                    <p>Kullanılan müzik aletine özel dökümantasyon ve düzenli kurs ile farkı siz de göreceksiniz.</p>
                 </div>
                 <div class="clearfix"> </div>
             </div>
@@ -95,8 +95,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
                 </div>
                 <div class="col-md-8 w3ls-bnrgrids-right">
-                    <h4>Vestibulum a facilisis</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                    <h4>3. Başarı</h4>
+                    <p>Gerekli seviyeye gelindiğinde olabilecek etkinliklerde sahne alma şansı veya hazırlanılan okulu kazanma.</p>
                 </div>
                 <div class="clearfix"> </div>
             </div>
@@ -108,15 +108,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- welcome -->
 <div class="welcome agileits">
     <div class="container">
-        <h2 class="agile-title">Welcome To Our Site</h2>
+        <h2 class="agile-title">Siteme Hoşgeldiniz</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed viverra auctor dolor, id egestas felis tristique vel. Donec malesuada, lorem sed vulputate tincidunt, nulla quam pulvinar mi, blandit placerat odio neque quis risus. Nullam ultricies erat non lectus aliquam, eu finibus neque semper. Morbi viverra, neque sit amet pretium blandit, dui mauris lacinia metus, a rhoncus erat ipsum vitae augue. Morbi laoreetvenenatis nulla, et venenatis purus scelerisque id. Vestibulum non facilisis lectus, quis accumsan mi.</p>
         <div class="welcome-agileinfo">
             <div class="col-md-6 col-sm-6 col-xs-6 welcome-grids">
                 <div class="view view-w3-agile">
                     <img src="resources/images/img1.jpg" alt="" class="img-responsive" />
                     <div class="agileits-w3layouts-mask">
-                        <h4>Our New Albums</h4>
-                        <p>Nullam ut nibh dapibus elit placerat ullamcorper</p>
+                        <h4>Kişiye Özel Kursu Kaçırma</h4>
+                        <p><a href="../contact.php" style="color:#FFFFFF;" >Mesaj Atmak İçin Tıkla</a></p>
                     </div>
                 </div>
             </div>
@@ -124,8 +124,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="view view-w3-agile">
                     <img src="resources/images/img2.jpg" alt="" class="img-responsive" />
                     <div class="agileits-w3layouts-mask">
-                        <h4>Letraset sheets</h4>
-                        <p>Nullam ut nibh dapibus elit placerat ullamcorper</p>
+                        <h4>Sahne Alma Şansını Kaçırma</h4>
+                        <p><a href="../contact.php" style="color:#FFFFFF;">Mesaj Atmak İçin Tıkla</a></p>
                     </div>
                 </div>
             </div>
@@ -141,21 +141,22 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="events-info">
             <div class="col-md-6 event-grids">
                 <div class="w3layouts-text">
-                    <h4>10<span>Nov</span></h4>
-                    <h6><a href="single.php">Sed ut perspiciatis unde omnis </a></h6>
+                    <h4>10<span>Haziran</span></h4>
+                    <h6><a href="../single.php">&emsp;Yıl Sonu Etkinliği / Sınav Koleji</a></h6>
                     <div class="clearfix"> </div>
                 </div>
                 <p>Kasertas lertyasea deeraeser miasera lertasa ritise doloert ferdas caplicabo nerafaes asety u lasec vaserat. nikertyade asetkertyptaiades goertayse.nikertyade asetkertyptaiades goertayse</p>
             </div>
             <div class="col-md-6 event-grids">
                 <div class="w3layouts-text">
-                    <h4>20<span>Dec</span></h4>
-                    <h6><a href="single.php">Voluptatem accusantium doloremque </a></h6>
+                    <h4>20<span>Temmuz</span></h4>
+                    <h6><a href="../single.php">&emsp;Deniz Bayramı Konseri / Bodrum</a></h6>
                     <div class="clearfix"> </div>
                 </div>
                 <p>Kasertas lertyasea deeraeser miasera lertasa ritise doloert ferdas caplicabo nerafaes asety u lasec vaserat. nikertyade asetkertyptaiades goertayse.nikertyade asetkertyptaiades goertayse</p>
             </div>
             <div class="clearfix"> </div>
+
         </div>
     </div>
 </div>
@@ -172,7 +173,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="albums-right">
                 <h4>Dolor Sit</h4>
                 <p>Nsatolernatur auts oditaut miertase vertas.Measnseqe ustur magni dolores eoqus ratione voluptate.</p>
-                <a class="w3more" href="/single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
+                <a class="w3more" href="../single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -184,7 +185,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="albums-right">
                 <h4>Consequat</h4>
                 <p>Nsatolernatur auts oditaut miertase vertas.Measnseqe ustur magni dolores eoqus ratione voluptate.</p>
-                <a class="w3more" href="/single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
+                <a class="w3more" href="../single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -196,7 +197,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="albums1-left">
                 <h4>Dolores Btrs</h4>
                 <p>Nsatolernatur auts oditaut miertase vertas.Measnseqe ustur magni dolores eoqus ratione voluptate.</p>
-                <a class="w3more" href="/single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
+                <a class="w3more" href="../single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -208,7 +209,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="albums1-left">
                 <h4>Nam aliquam</h4>
                 <p>Nsatolernatur auts oditaut miertase vertas.Measnseqe ustur magni dolores eoqus ratione voluptate.</p>
-                <a class="w3more" href="/single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
+                <a class="w3more" href="../single.php"><i class="fa fa-mail-forward" aria-hidden="true"></i> More</a>
             </div>
             <div class="clearfix"></div>
         </div>

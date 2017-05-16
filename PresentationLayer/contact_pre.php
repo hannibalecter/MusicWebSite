@@ -23,7 +23,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- contact -->
 <div class="contact">
     <div class="container">
-        <h2 class="agile-title">Contact Us</h2>
+        <h2 class="agile-title">İletişime Geç</h2>
         <div class="col-md-7 contact-right">
 
             <form action="#" method="POST">
@@ -53,10 +53,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         </div>
         <div class="clearfix"> </div>
         <div class="map">
-            <h3 class="agile-title">How to Find Us</h3>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4376542.827441857!2d133.94238155277205!3d-25.73870281693212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2b2bfd076787c5df%3A0x538267a1955b1352!2sAustralia!5e0!3m2!1sen!2sin!4v1439377130002" allowfullscreen></iframe>
-        </div>
-    </div>
+            <h3 class="agile-title">Beni Nasıl Bulabilirsin</h3>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d793.454838286579!2d27.784979829253956!3d37.29941499874057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDE3JzU3LjkiTiAyN8KwNDcnMDcuOSJF!5e0!3m2!1str!2str!4v1494919610376" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>    </div>
 </div>
 <!-- //contact -->
 <!-- footer start here -->
