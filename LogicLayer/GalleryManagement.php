@@ -1,5 +1,6 @@
 <?php
-
+require_once(__DIR__ . "/../DataLayer/DB.php");
+require_once("Gallery.php");
 /**
  * Created by PhpStorm.
  * User: erens

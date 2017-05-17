@@ -10,14 +10,18 @@ class ActivityManagement
         $db = new DB();
         $result = $db->getDataTable("SELECT * FROM activity");
 
-        $allActivity = array();
+        if($result){
 
-        while ($row = $result->fetch_assoc()) {
-            $activityObj = new Activity($row["id"], $row["date_activity"], $row["title_activity"], $row["address_activity"], $row["content_activity"], $row["isShow"]);
-            array_push($allActivity, $activityObj);
+            $allActivity = array();
+
+            while ($row = $result->fetch_assoc()) {
+                $activityObj = new Activity($row["id"], $row["date_activity"], $row["title_activity"], $row["address_activity"], $row["content_activity"], $row["isShow"]);
+                array_push($allActivity, $activityObj);
+            }
+            return $allActivity;
+
         }
-
-        return $allActivity;
+        return null;
     }
 
     public static function getActivityByID($id)

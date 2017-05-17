@@ -13,10 +13,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <meta name="keywords" content="Music8 Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
     <script type="applijewelleryion/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-    <link href="resources/css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <link href="/resources/css/bootstrap.css" rel='stylesheet' type='text/css' />
     <!-- Custom Theme files -->
-    <link href="resources/css/style.css" rel='stylesheet' type='text/css' />
-    <script src="resources/js/jquery-1.11.1.min.js"></script>
+    <link href="/resources/css/style.css" rel='stylesheet' type='text/css' />
+    <script src="/resources/js/jquery-1.11.1.min.js"></script>
     <!--webfonts-->
     <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600,700|Six+Caps' rel='stylesheet' type='text/css'>
     <!--//webfonts-->
@@ -94,7 +94,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="eve-top">
                 <div class="col-md-5 eve-lt">
                     <div class="ev-lft">
-                        <img src="resources/images/img4.jpg" alt=" " class="img-responsive">
+                        <img src="/resources/images/img4.jpg" alt=" " class="img-responsive">
                     </div>
                     <div class="ev-rgt">
                         <h5>29</h5>
@@ -111,7 +111,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="eve-top">
                 <div class="col-md-5 eve-lt">
                     <div class="ev-lft">
-                        <img src="resources/images/img5.jpg" alt=" " class="img-responsive">
+                        <img src="/resources/images/img5.jpg" alt=" " class="img-responsive">
                     </div>
                     <div class="ev-rgt">
                         <h5>10</h5>
@@ -128,7 +128,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="eve-top">
                 <div class="col-md-5 eve-lt">
                     <div class="ev-lft">
-                        <img src="resources/images/img3.jpg" alt=" " class="img-responsive">
+                        <img src="/resources/images/img3.jpg" alt=" " class="img-responsive">
                     </div>
                     <div class="ev-rgt">
                         <h5>22</h5>
@@ -145,7 +145,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="eve-top">
                 <div class="col-md-5 eve-lt">
                     <div class="ev-lft">
-                        <img src="resources/images/img2.jpg" alt=" " class="img-responsive">
+                        <img src="/resources/images/img2.jpg" alt=" " class="img-responsive">
                     </div>
                     <div class="ev-rgt">
                         <h5>12</h5>
@@ -162,7 +162,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="eve-top">
                 <div class="col-md-5 eve-lt">
                     <div class="ev-lft">
-                        <img src="resources/images/img1.jpg" alt=" " class="img-responsive">
+                        <img src="/resources/images/img1.jpg" alt=" " class="img-responsive">
                     </div>
                     <div class="ev-rgt">
                         <h5>23</h5>

@@ -1,9 +1,3 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- banner start here -->
 <div class="agileinfo-main">
     <div class="slider">
-        <script src="resources/js/responsiveslides.min.js"></script>
+        <script src="/resources/js/responsiveslides.min.js"></script>
         <script>
             // You can also use "$(window).load(function() {"
             $(function () {
@@ -113,7 +107,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="welcome-agileinfo">
             <div class="col-md-6 col-sm-6 col-xs-6 welcome-grids">
                 <div class="view view-w3-agile">
-                    <img src="resources/images/img1.jpg" alt="" class="img-responsive" />
+                    <img src="/resources/images/img1.jpg" alt="" class="img-responsive" />
                     <div class="agileits-w3layouts-mask">
                         <h4>Kişiye Özel Kursu Kaçırma</h4>
                         <p><a href="../contact.php" style="color:#FFFFFF;" >Mesaj Atmak İçin Tıkla</a></p>
@@ -122,7 +116,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </div>
             <div class="col-md-6 col-sm-6 col-xs-6 welcome-grids">
                 <div class="view view-w3-agile">
-                    <img src="resources/images/img2.jpg" alt="" class="img-responsive" />
+                    <img src="/resources/images/img2.jpg" alt="" class="img-responsive" />
                     <div class="agileits-w3layouts-mask">
                         <h4>Sahne Alma Şansını Kaçırma</h4>
                         <p><a href="../contact.php" style="color:#FFFFFF;">Mesaj Atmak İçin Tıkla</a></p>
