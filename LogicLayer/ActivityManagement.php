@@ -48,7 +48,7 @@ class ActivityManagement
     public static function insertActivity(Activity $newObj)
     {
         $db = new DB();
-        $success = $db->insertQuery("INSERT INTO Activity(date_activity, title_activity, address_activity, content_activity) 
+        $success = $db->insertQuery("INSERT INTO Activity(date_activity, title_activity, address_activity, content_activity, isShow) 
                                       VALUES ('$newObj->date_activity', '$newObj->title_activity', '$newObj->address_activity', '$newObj->content_activity', , '$newObj->isShow')");
 
         return $success;
