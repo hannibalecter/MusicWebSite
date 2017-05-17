@@ -36,6 +36,7 @@ echo "<table class=\"table\">
     <tbody>";
 
     foreach($objArr as $obj){
+
         echo "<tr>
         <td>
             $obj->id
@@ -43,8 +44,9 @@ echo "<table class=\"table\">
         <td>
             $obj->title_blog
         </td>
-        <td>
-            $obj->image_blog
+        <td>";
+        echo '<img src="data:image/jpeg;base64,'.base64_encode( $obj->image_blog).'"/>';
+        echo"
         </td>
         <td>
             $obj->date_blog
